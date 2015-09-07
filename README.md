@@ -1,32 +1,25 @@
-# _{Application Name}_
+# _About Me Page - First Code Review_
 
-##### _{Brief description of application}, {Date of current version}_
+##### _A page to share a little more about me, 9/7/2015_
 
-#### By _**{List of contributors}**_
+#### By _**Quinn Oaks**_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. Do you want other developers to use this code in their apps? Talk about things like that here in simple terms.}_
+_A page to share a little more about me. Used HTML, CSS, and MarkDown to create the webpage, stylesheet, and README pages._
 
 ## Setup
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Are there other applications this app depends on?}_
+* _Use the following GitHub link to launch the webpage._
+* _Use the various links within the webpage to learn more about me._
 
 ## Technologies Used
 
-_{Tell me about the languages you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_HTML, CSS, and MarkDown._
 
 ### Legal
 
-*{This is boilerplate legal language. Read through it, and if you like it, use it. There are other license agreements online, but you can generally copy and paste this.}*
-
-Copyright (c) 2015 **_{List of contribtors}_**
+Copyright (c) 2015 **_Quinn Oaks_**
 
 This software is licensed under the MIT license.
 
