@@ -10,7 +10,7 @@ _A page to share a little more about me. Used HTML, CSS, and MarkDown to create 
 
 ## Setup
 
-* _Use the following GitHub link to launch the webpage._
+* _Use the following GitHub link to launch the webpage: http://quinnoaks.github.io/first_code_review/_
 * _Use the various links within the webpage to learn more about me._
 
 ## Technologies Used
