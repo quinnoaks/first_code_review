@@ -1,0 +1,29 @@
+h1 {
+  color: #d29c0e;
+  text-align: center;
+  font-family: cursive;
+}
+
+h3 {
+  color: #869702;
+  font-weight: bold;
+  font-family: cursive;
+}
+
+h4 {
+  color: #8e0306;
+  font-style: italic;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+a {
+  color: blue;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+strong {
+  color: green;
+}
